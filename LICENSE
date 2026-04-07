@@ -1,0 +1,169 @@
+            PUBLIC ATTRIBUTION LICENSE (PAL)
+                    Version 1, April 2026
+
+ Copyright (C) 2026 [The Licensor]
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            PUBLIC ATTRIBUTION LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+   OF ANY TYPE OF CONTENT, INCLUDING BUT NOT LIMITED TO SOFTWARE,
+   CODE, VIDEOS, ARTICLES, BLOG POSTS, IMAGES, AND TEXTUAL MATERIALS.
+
+   Preamble. This license makes the content available for the
+   unrestricted Open Internet, subject only to the conditions below.
+   You may do whatever you want with the content, including commercial
+   use, subject to the terms of clauses 1, 3, and 4, and the disclaimer
+   in clause 2.
+
+   0. Grant. You may copy, modify, distribute, perform, display, and
+      create derivative works from the content, for any purpose,
+      including commercial purposes, subject to clauses 1, 3, and 4,
+      and the disclaimer in clause 2.
+
+   1. Attribution. You must give appropriate credit to the author(s)
+      as specified by the Licensor. If the Licensor has provided a name
+      (including real names, pseudonyms, or usernames), you must credit
+      that name. If the Licensor has chosen anonymity, you must credit
+      the work as by 'Anonymous'. If there are multiple authors, you
+      must credit all named authors or, if they have chosen collective
+      anonymity, credit the work as by 'Anonymous'. You may not remove
+      or alter that attribution. You may add your own credit for
+      modifications, but the original attribution must remain clearly
+      visible.
+
+   2. NO LIABILITY. THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY
+      OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+      WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+      OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT
+      HOLDER(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+      WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+      OUT OF, OR IN CONNECTION WITH THE CONTENT OR THE USE OR OTHER
+      DEALINGS IN THE CONTENT.
+
+   3. Preservation of Notice. You must retain a copy of this entire
+      license (including the disclaimer of liability) with every copy
+      or portion of the content or derivative work that is distributed
+      separately. If you incorporate a portion into a larger work, you
+      need not include the license with the larger work, but you must
+      not remove the attribution from that portion.
+
+   4. Termination. If you fail to comply with clause 1 (Attribution)
+      or clause 3 (Preservation of Notice), your rights under this
+      license automatically terminate. However, if you remedy the
+      failure within 30 days after discovering it (or after written
+      notice from the Licensor), your rights are reinstated.
+
+   5. No Patent Grant. This license does not grant any patent rights.
+      Any patents that the Licensor may hold on the content are not
+      licensed hereunder.
+
+   6. Severability. If any provision of this license is held to be
+      unenforceable, the remaining provisions remain in full force
+      and effect.
+
+---------------------------------------------------------------------
+APPENDIX : How to apply this license to your work
+---------------------------------------------------------------------
+
+To apply the Public Attribution License (PAL) to your work, attach the
+following notice, replacing [year], [name of author(s)], and either
+your name(s), pseudonym(s), or 'Anonymous' as appropriate. Include the
+full text of this license.
+
+Example notice for a work by one or more named authors:
+
+  Copyright (C) [year] [name(s) of author(s)]
+
+  This work is licensed under the Public Attribution License (PAL).
+  You may do whatever you want with it, subject to attribution of the
+  author(s) as [name(s) of author(s)], the no‑liability terms, and the
+  notice‑preservation terms. The complete license text is included below.
+
+Example notice for an anonymous work:
+
+  Copyright (C) [year] Anonymous
+
+  This work is licensed under the Public Attribution License (PAL).
+  You may do whatever you want with it, subject to attribution of the
+  work as by 'Anonymous', the no‑liability terms, and the
+  notice‑preservation terms. The complete license text is included below.
+
+Place the notice in a prominent location (e.g., file header, README,
+description field, or accompanying text file). No further restrictions
+apply beyond attribution, notice preservation, and disclaimer of
+liability.
+
+---------------------------------------------------------------------
+SUBSECTIONS FOR SPECIFIC CONTENT TYPES
+---------------------------------------------------------------------
+
+A. For images (photographs, illustrations, graphics, memes, etc.):
+
+   Embed the license notice in the image metadata (EXIF, IPTC, XMP) if
+   possible. If not, accompany the image with a plain text file named
+   "LICENSE.txt" or "PAL_NOTICE.txt" containing the copyright year,
+   author name(s) (or 'Anonymous'), and the statement: "Licensed under
+   the Public Attribution License (PAL) – see attached license text."
+   For online distribution, include the notice in the image's alt text
+   or a visible caption.
+
+B. For video (films, clips, animations, streaming content):
+
+   Include the license notice in the video credits or a dedicated title
+   card for at least 3 seconds. Additionally, embed the notice in the
+   video's metadata container (e.g., MOV, MKV, or MP4 tags). For
+   platform-based uploads (YouTube, Vimeo, etc.), place the notice in
+   the video description field, and if possible, as a pinned comment or
+   end screen.
+
+   **Opening screen excerpt (display as a title card or disclaimer):**
+
+   Place the following text on a plain or semi‑transparent background
+   for at least 3 seconds near the beginning of the video, before main
+   content begins. You may reformat the layout (centered, smaller font,
+   with or without a border) as long as the words remain legible.
+
+   --- BEGIN EXCERPT ---
+
+   This work is licensed under the
+   Public Attribution License (PAL).
+
+   Author: [name(s) or 'Anonymous' as specified by the Licensor]
+
+   You may do whatever you want with this video,
+   subject to attribution, notice preservation,
+   and the no‑liability terms.
+
+   Full license text is included with this video
+   or available at [optional URL].
+
+   --- END EXCERPT ---
+
+   If the author chooses anonymity, replace the author line with:
+   "Author: Anonymous"
+
+   You may shorten the excerpt further for very short clips (e.g.,
+   under 10 seconds) to only:
+
+   "PAL licensed – see description for terms. Author: [name/Anonymous]"
+
+   However, the full opening screen (above) is recommended for
+   standalone videos.
+
+C. For text (blog posts, articles, documentation, books, code snippets):
+
+   For short works (e.g., blog posts, articles), include the notice at
+   the beginning or end of the document. For longer works (books,
+   manuals), place the notice on a copyright page or in a dedicated
+   section. For code snippets, include the notice as a comment block at
+   the top of each file, or in a root LICENSE file for a repository.
+
+D. For any other content type (audio, 3D models, datasets, presentations):
+
+   Follow the same principle: attach the notice in a location visible
+   to a reasonable user or embedded in the file's standard metadata
+   fields. If no metadata exists, provide a companion text file named
+   "PAL_LICENSE.txt" alongside the content.
